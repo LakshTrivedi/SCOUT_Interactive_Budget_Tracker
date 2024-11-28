@@ -39,5 +39,3 @@ Reduce manual input and errors in financial tracking.
 
 - **GitHub:** A web-based platform for version control and collaboration. It hosts the project repository, allowing team members to share code and track issues.
 
-
-
