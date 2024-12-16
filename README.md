@@ -48,7 +48,7 @@ Date,Type,Amount\
 2020-02-28,Expenses,2\
 2020-02-28,Loans,1\
 2020-02-28,Miscellaneous,1\
-2020-03-01,Income,5\
+2020-03-01,Income,5
 
 ## Execution Steps
 To successfully run the budget data visualization project, follow these steps:
