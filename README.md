@@ -13,8 +13,6 @@ The objective of this project is to analyze and visualize budget data, specifica
 
 - **Python:** The primary programming language used for developing the project.
 
-- **NumPy:** A fundamental package for scientific computing in Python. It provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays.
-
 - **Pandas:** A powerful data manipulation and analysis library for Python. It provides data structures like DataFrames, which are ideal for handling structured data, making it easy to read, write, and manipulate datasets.
 
 - **Matplotlib:** A plotting library for Python that provides a flexible way to create static, animated, and interactive visualizations in Python. It is used in this project to visualize income and expenses.
